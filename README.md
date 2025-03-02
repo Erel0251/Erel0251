@@ -1,6 +1,6 @@
 <h1 align="center">Hi , I'm Duc Anh <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Software+Engineer;HCMUS+Student;Always+learning+new+things"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Junior+Software+Engineer;Always+learning+new+things"></a>
 </p>
 
 <br>
@@ -13,9 +13,8 @@
 
 - :school: I graduated at [University of Science](https://hcmus.edu.vn/) with GPA 3.5.
 - :technologist: I love using Software as a solution for every `Problem`.
-- :student: I’m currently fresher in `Software Engineering`.
-- :nerd_face: Always `learning new things`.
-- :thinking: I’m currently open to a new `job opportunity`.
+- :student: I’m currently junior in `Software Engineering`.
+- :nerd_face: I'm use neovim btw
 <br>
 
 
